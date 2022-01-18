@@ -1,0 +1,18 @@
+@font-face {
+  /*圓體*/
+    font-family: 'GenJyuuGothicX';
+    /*src: url(fonts/GenJyuuGothicX-Heavy.ttf)format("truetype");*/
+    src: url(https://github.com/Murkilla/font/blob/main/GenJyuuGothicX-Heavy.ttf)format("truetype")
+  }
+/*
+@font-face {
+
+  font-family: 'NotoSansCJKtc';
+  src: url(fonts/NotoSansCJKtc-Black.otf)format("opentype");
+}
+@font-face {
+
+  font-family: 'NotoSerifCJKtc';
+  src: url(fonts/NotoSerifCJKtc-Black.otf)format("opentype");
+}
+*/
